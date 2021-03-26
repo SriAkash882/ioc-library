@@ -1,0 +1,19 @@
+{
+  "name": "ioc-library-sriakash882",
+  "version": "1.0.0",
+  "description": "## About IOC library provides a container that enables the concept of Inversion of Control. This container containes the some methods that can be used to decouple your tightly coupled classes. It also provides proper error messages when correct arguments are not passed to the functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SriAkash882/ioc-library.git"
+  },
+  "author": "SriAkash882 <an566data@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SriAkash882/ioc-library/issues"
+  },
+  "homepage": "https://github.com/SriAkash882/ioc-library#readme"
+}
