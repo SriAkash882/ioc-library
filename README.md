@@ -11,13 +11,13 @@ IOC library provides a container that enables the concept of Inversion of Contro
 
 ## Installation and Usage
 1. Installing the library
-    > npm install ioc-library
+    > npm install ioc-library-sriakash882
 
 2. Require the library in your file
     > const container = require('ioc-library/src/container')
 
 3. Use the library functions
-    > const container = new Container
+    > const container = new Container()
 
     > container.set('key', 'value')
 
